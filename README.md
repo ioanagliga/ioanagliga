@@ -1,6 +1,6 @@
 ## Hi there! 🧚🏻‍♀️
 
-<p >&emsp;&emsp;I'm Ioana Gliga, a computer science graduate and a self-taught digital artist. I graduated with a Bachelor's Degree in Computer Science in 2019 from the Faculty of Science and Technology at UMFST in Targu Mures. As for my artistic side, I have a deep passion for creating whimsical and colorful digital art, infusing my work with adorable characters that have a touch of edginess. I strive to merge my love for art and technology, pushing boundaries and leaving a lasting impact through my work.</p>
+<p >&emsp;&emsp;Bla bla bla</p>
 <div align=center>
 
 
